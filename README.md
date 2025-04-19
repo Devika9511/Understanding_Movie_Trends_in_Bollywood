@@ -14,6 +14,6 @@ This project looks at how Bollywood movies have changed over time. It uses data 
 * Matplotlib & Seaborn (for charts)
 
 📊 Learnings from the project:
--> How Bollywood trends have shifted
--> What are the reasons why a movie can be successful
--> Observations regarding the film industry based on actual data
+* How Bollywood trends have shifted
+* What are the reasons why a movie can be successful
+* Observations regarding the film industry based on actual data
